@@ -14,7 +14,7 @@ alert = ['No mover el mouse, ni teclear cuando termine la barra de progreso.',
 try:
     os.system('color a')
     os.system('py -m pip install --upgrade pip')
-    os.system('py -m pip install -r requirements')
+    os.system('py -m pip install -r requirements.txt')
 #    os.system('py -m pip install tqdm')
 #    os.system('py -m pip install pyautogui')
 #    os.system('py -m pip install psutil')
